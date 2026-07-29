@@ -34,6 +34,7 @@ Toolso.AI is an open-source AI tools directory designed to help users discover t
 | **AI Tools Directory** | Categorized AI tools listing | Easy discovery and exploration |
 | **Search & Filter** | Powerful search with category filters | Find the right tool quickly |
 | **Tool Submission** | User-contributed tool submissions | Community-driven content |
+| **GPT Image 2** | AI image generation and editing for marketing visuals and branded assets | Useful reference for visual tools |
 | **Admin Panel** | Tool & user management | Approve submissions, manage content |
 | **Blog System** | MDX-powered multilingual blog | SEO-optimized AI insights |
 | **i18n** | next-intl internationalization | English & Chinese out of the box |
