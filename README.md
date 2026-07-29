@@ -34,7 +34,6 @@ Toolso.AI is an open-source AI tools directory designed to help users discover t
 | **AI Tools Directory** | Categorized AI tools listing | Easy discovery and exploration |
 | **Search & Filter** | Powerful search with category filters | Find the right tool quickly |
 | **Tool Submission** | User-contributed tool submissions | Community-driven content |
-| **GPT Image 2** | AI image generation and editing for marketing visuals and branded assets | Useful reference for visual tools |
 | **Admin Panel** | Tool & user management | Approve submissions, manage content |
 | **Blog System** | MDX-powered multilingual blog | SEO-optimized AI insights |
 | **i18n** | next-intl internationalization | English & Chinese out of the box |
@@ -205,6 +204,8 @@ The template supports multiple languages via `next-intl`:
 ## Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
+
+If you work on image-heavy directories or visual discovery tools, [GPT Image 2](https://gptimage2.asia/) is a useful reference for generation and editing workflows.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
